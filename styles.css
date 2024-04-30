@@ -1,0 +1,40 @@
+*{
+    font-family: "Georgia", serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    background: rgb(255, 255, 255);
+    padding: 50px;
+}
+
+a{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: gray;
+    text-decoration: none;
+
+    box-sizing: border-box; 
+    display: inline-flex;
+    margin: 10px;
+    width: 30%;
+    padding: 15px 20px;
+
+    border-style:solid;
+    border-color: black;
+
+}
+a:hover{
+    text-decoration:underline;
+}
+
+div.div{
+    background:darkgrey;
+    padding:1px;
+    margin:10px;
+}
+
+div.recipe{
+    padding: 10px;
+}
